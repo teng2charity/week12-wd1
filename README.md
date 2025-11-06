@@ -4,4 +4,4 @@ debug-report
  2. mispelled black in the script.css
 
 Thoughts:
-You have to identify a problem before you can fix it.
+You have to identify a bug before you can fix it.
